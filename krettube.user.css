@@ -77,4 +77,5 @@ a[title="Your channel"] {
 	display: none !important; }
 
 [aria-label="Join this channel"] {
-	display: none !important; }
+  display: none !important;
+}

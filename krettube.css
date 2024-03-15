@@ -1,0 +1,65 @@
+.ytd-compact-link-renderer {
+	--paper-item-min-height: 28px; }
+
+
+
+a[href="/feed/explore"] {
+	display: none !important; }
+
+a[href="https://music.youtube.com/"] {
+	display: none !important; }
+
+a[href="https://myaccount.google.com/u/0/?utm_source=YouTubeWeb&tab=rk&utm_medium=act&tab=rk&hl=en"] {
+	display: none !important; }
+
+a[href="/feed/downloads"] {
+	display: none !important; }
+
+a[href="https://music.youtube.com/"] {
+	display: none !important; }
+
+a[href="/premium_benefits"] {
+	display: none !important; }
+
+a[href="/paid_memberships?ybp=mAEK"] {
+	display: none !important; }
+
+a[href="https://myaccount.google.com/u/0/yourdata/youtube?hl=en"] {
+	display: none !important; }
+
+a[title="Your videos"] {
+	display: none !important; }
+
+a[title="Your channel"] {
+	display: none !important; }
+
+
+
+#voice-search-button {
+	display: none !important; }
+
+#voice-search-button {
+	display: none !important; }
+
+#flexible-item-buttons {
+	display: none !important; }
+
+#sections.ytd-multi-page-menu-renderer > .ytd-multi-page-menu-renderer:not(ytd-comment-video-thumbnail-header-renderer) {
+	padding: 0px 0; }
+
+#chips {
+	display: none !important; }
+
+
+
+[aria-label="Thanks"] {
+	display: none !important; }
+
+[aria-label="Download"] {
+	display: none !important; }
+
+[aria-label="Clip"] {
+	display: none !important; }
+
+[aria-label="Join this channel"] {
+	display: none !important; }

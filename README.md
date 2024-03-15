@@ -1,4 +1,4 @@
 # youtubeCss
 Youtube css fixes/tweaks
 
-https://raw.githubusercontent.com/kretcee/youtubeCss/main/krettube.css
+https://github.com/kretcee/youtubeCss/raw/main/krettube.user.css

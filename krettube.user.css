@@ -11,6 +11,7 @@
 @preprocessor stylus
 ==/UserStyle== */
 
+@-moz-document domain("youtube.com") {
 
 .ytd-compact-link-renderer {
 	--paper-item-min-height: 28px; }
